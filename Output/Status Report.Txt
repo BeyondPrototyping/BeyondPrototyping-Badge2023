@@ -1,0 +1,19 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [badge.PcbDoc]
+   Generated File[badge.GTO]
+   Generated File[badge.GTS]
+   Generated File[badge.GTL]
+   Generated File[badge.GBL]
+   Generated File[badge.GBS]
+   Generated File[badge.GBO]
+   Generated File[badge.GM1]
+   Generated File[badge.RUL]
+   Generated File[badge.EXTREP]
+   Generated File[badge.REP]
+
+
+Files Generated   : 10
+Documents Printed : 0
+
+Finished Output Generation At 11:26:27 AM On 4/7/2023
