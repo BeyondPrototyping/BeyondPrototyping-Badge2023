@@ -1,4 +1,4 @@
-# ElectroFab 2023 badge
+# Beyond Prototyping 2023 badge
 
 Badge for participants of [workshop](https://electrofab.prototyping.id) _Beyond Prototyping Boards: Future Paradigms for Electronics Toolkits_ held at CHI 2023.
 
